@@ -1,0 +1,83 @@
+=> [[32m#<Cocktail:0x00005628ca2366f0[0m
+  id: [1;34m1[0m,
+  url:
+   [31m[1;31m"[0m[31mhttps://assets.bonappetit.com/photos/5b69f16006027f654a27cd19/1:1/w_2560%2Cc_limit/ba-margarita-1.jpg[1;31m"[0m[31m[0m,
+  name: [31m[1;31m"[0m[31mMargarita[1;31m"[0m[31m[0m,
+  price: [1;34m750[0m,
+  ingredients:
+   [31m[1;31m"[0m[31m[[1;35m\"[0m[31m2 oz tequila[1;35m\"[0m[31m, [1;35m\"[0m[31m1 oz lime juice[1;35m\"[0m[31m, [1;35m\"[0m[31m1 oz triple sec[1;35m\"[0m[31m, [1;35m\"[0m[31m1 tsp agave syrup[1;35m\"[0m[31m, [1;35m\"[0m[31mSalt (for rimming)[1;35m\"[0m[31m, [1;35m\"[0m[31mLime wedge (for garnish)[1;35m\"[0m[31m, [1;35m\"[0m[31mIce cubes[1;35m\"[0m[31m][1;31m"[0m[31m[0m,
+  instructions:
+   [31m[1;31m"[0m[31m1. Rim the glass with salt.[1;35m\n[0m[31m2. In a shaker, combine tequila, lime juice, triple sec, agave syrup, and ice cubes.[1;35m\n[0m[31m3. Shake well.[1;35m\n[0m[31m4. Strain the mixture into the glass.[1;35m\n[0m[31m5. Garnish with a lime wedge.[1;35m\n[0m[31m6. Enjoy![1;31m"[0m[31m[0m,
+  mixologist_id: [1;34m1[0m,
+  created_at: [1;34m2023[0m-[1;34m06[0m-[1;34m07[0m [1;34m10[0m:[1;34m49[0m:[1;35m18.17382[0m [1;34;4mUTC[0m,
+  updated_at: [1;34m2023[0m-[1;34m06[0m-[1;34m07[0m [1;34m16[0m:[1;34m32[0m:[1;35m26.217207[0m [1;34;4mUTC[0m,
+  available_quantity: [1;34m10[0m[32m>[0m,
+ [32m#<Cocktail:0x00005628ca3b3c58[0m
+  id: [1;34m2[0m,
+  url:
+   [31m[1;31m"[0m[31mhttps://www.liquor.com/thmb/wm9ICT4sskWaeUONYmoCqiTEjLY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__liquor__2018__05__08113350__bourbon-old-fashioned-720x720-recipe-ade6f7780c304999be3577e565c9bcdd.jpg[1;31m"[0m[31m[0m,
+  name: [31m[1;31m"[0m[31mOld Fashioned[1;31m"[0m[31m[0m,
+  price: [1;34m800[0m,
+  ingredients:
+   [31m[1;31m"[0m[31m[[1;35m\"[0m[31m2 oz bourbon[1;35m\"[0m[31m, [1;35m\"[0m[31m1 sugar cube[1;35m\"[0m[31m, [1;35m\"[0m[31m2 dashes Angostura bitters[1;35m\"[0m[31m, [1;35m\"[0m[31m1 splash water[1;35m\"[0m[31m, [1;35m\"[0m[31mOrange peel (for garnish)[1;35m\"[0m[31m, [1;35m\"[0m[31mIce cubes[1;35m\"[0m[31m][1;31m"[0m[31m[0m,
+  instructions:
+   [31m[1;31m"[0m[31m1. Place the sugar cube in a glass.[1;35m\n[0m[31m2. Add dashes of Angostura bitters and a splash of water.[1;35m\n[0m[31m3. Muddle the sugar cube until dissolved.[1;35m\n[0m[31m4. Add bourbon and ice cubes.[1;35m\n[0m[31m5. Stir gently.[1;35m\n[0m[31m6. Garnish with an orange peel.[1;35m\n[0m[31m7. Enjoy![1;31m"[0m[31m[0m,
+  mixologist_id: [1;34m2[0m,
+  created_at: [1;34m2023[0m-[1;34m06[0m-[1;34m07[0m [1;34m10[0m:[1;34m49[0m:[1;35m18.411978[0m [1;34;4mUTC[0m,
+  updated_at: [1;34m2023[0m-[1;34m06[0m-[1;34m07[0m [1;34m16[0m:[1;34m32[0m:[1;35m26.965552[0m [1;34;4mUTC[0m,
+  available_quantity: [1;34m15[0m[32m>[0m,
+ [32m#<Cocktail:0x00005628ca3b3af0[0m
+  id: [1;34m3[0m,
+  url:
+   [31m[1;31m"[0m[31mhttps://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cosmopolitan_%285076906532%29.jpg/640px-Cosmopolitan_%285076906532%29.jpg[1;31m"[0m[31m[0m,
+  name: [31m[1;31m"[0m[31mCosmopolitan[1;31m"[0m[31m[0m,
+  price: [1;34m850[0m,
+  ingredients:
+   [31m[1;31m"[0m[31m[[1;35m\"[0m[31m1.5 oz vodka[1;35m\"[0m[31m, [1;35m\"[0m[31m1 oz cranberry juice[1;35m\"[0m[31m, [1;35m\"[0m[31m0.5 oz triple sec[1;35m\"[0m[31m, [1;35m\"[0m[31m0.5 oz lime juice[1;35m\"[0m[31m, [1;35m\"[0m[31mLime twist (for garnish)[1;35m\"[0m[31m, [1;35m\"[0m[31mIce cubes[1;35m\"[0m[31m][1;31m"[0m[31m[0m,
+  instructions:
+   [31m[1;31m"[0m[31m1. Fill a shaker with ice cubes.[1;35m\n[0m[31m2. Add vodka, cranberry juice, triple sec, and lime juice.[1;35m\n[0m[31m3. Shake well.[1;35m\n[0m[31m4. Strain into a chilled cocktail glass.[1;35m\n[0m[31m5. Garnish with a lime twist.[1;35m\n[0m[31m6. Enjoy![1;31m"[0m[31m[0m,
+  mixologist_id: [1;34m3[0m,
+  created_at: [1;34m2023[0m-[1;34m06[0m-[1;34m07[0m [1;34m10[0m:[1;34m49[0m:[1;35m18.652529[0m [1;34;4mUTC[0m,
+  updated_at: [1;34m2023[0m-[1;34m06[0m-[1;34m07[0m [1;34m16[0m:[1;34m32[0m:[1;35m27.616754[0m [1;34;4mUTC[0m,
+  available_quantity: [1;34m20[0m[32m>[0m,
+ [32m#<Cocktail:0x00005628ca3b3a00[0m
+  id: [1;34m4[0m,
+  url:
+   [31m[1;31m"[0m[31mhttps://www.liquor.com/thmb/cmNLcCCoKU-r_OSvAahfo3Ho4D4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/kingston-negroni-720x720-primary1-ef87562fea8240de92dd09c36457a8c2.jpg[1;31m"[0m[31m[0m,
+  name: [31m[1;31m"[0m[31mNegroni[1;31m"[0m[31m[0m,
+  price: [1;34m900[0m,
+  ingredients:
+   [31m[1;31m"[0m[31m[[1;35m\"[0m[31m1 oz gin[1;35m\"[0m[31m, [1;35m\"[0m[31m1 oz sweet vermouth[1;35m\"[0m[31m, [1;35m\"[0m[31m1 oz Campari[1;35m\"[0m[31m, [1;35m\"[0m[31mOrange twist (for garnish)[1;35m\"[0m[31m, [1;35m\"[0m[31mIce cubes[1;35m\"[0m[31m][1;31m"[0m[31m[0m,
+  instructions:
+   [31m[1;31m"[0m[31m1. Fill a mixing glass with ice cubes.[1;35m\n[0m[31m2. Add gin, sweet vermouth, and Campari.[1;35m\n[0m[31m3. Stir well.[1;35m\n[0m[31m4. Strain into a rocks glass filled with ice cubes.[1;35m\n[0m[31m5. Garnish with an orange twist.[1;35m\n[0m[31m6. Enjoy![1;31m"[0m[31m[0m,
+  mixologist_id: [1;34m4[0m,
+  created_at: [1;34m2023[0m-[1;34m06[0m-[1;34m07[0m [1;34m10[0m:[1;34m49[0m:[1;35m18.815545[0m [1;34;4mUTC[0m,
+  updated_at: [1;34m2023[0m-[1;34m06[0m-[1;34m07[0m [1;34m16[0m:[1;34m32[0m:[1;35m28.168638[0m [1;34;4mUTC[0m,
+  available_quantity: [1;34m8[0m[32m>[0m,
+ [32m#<Cocktail:0x00005628ca3b3910[0m
+  id: [1;34m5[0m,
+  url:
+   [31m[1;31m"[0m[31mhttps://bakeitwithlove.com/wp-content/uploads/2022/07/Moscow-Mule-sq.jpg[1;31m"[0m[31m[0m,
+  name: [31m[1;31m"[0m[31mMoscow Mule[1;31m"[0m[31m[0m,
+  price: [1;34m800[0m,
+  ingredients:
+   [31m[1;31m"[0m[31m[[1;35m\"[0m[31m2 oz vodka[1;35m\"[0m[31m, [1;35m\"[0m[31m0.5 oz lime juice[1;35m\"[0m[31m, [1;35m\"[0m[31mGinger beer[1;35m\"[0m[31m, [1;35m\"[0m[31mLime wedge (for garnish)[1;35m\"[0m[31m, [1;35m\"[0m[31mIce cubes[1;35m\"[0m[31m][1;31m"[0m[31m[0m,
+  instructions:
+   [31m[1;31m"[0m[31m1. Fill a copper mug with ice cubes.[1;35m\n[0m[31m2. Add vodka and lime juice.[1;35m\n[0m[31m3. Top with ginger beer.[1;35m\n[0m[31m4. Stir gently.[1;35m\n[0m[31m5. Garnish with a lime wedge.[1;35m\n[0m[31m6. Enjoy![1;31m"[0m[31m[0m,
+  mixologist_id: [1;34m5[0m,
+  created_at: [1;34m2023[0m-[1;34m06[0m-[1;34m07[0m [1;34m10[0m:[1;34m49[0m:[1;35m18.97832[0m [1;34;4mUTC[0m,
+  updated_at: [1;34m2023[0m-[1;34m06[0m-[1;34m07[0m [1;34m16[0m:[1;34m32[0m:[1;35m28.668355[0m [1;34;4mUTC[0m,
+  available_quantity: [1;34m12[0m[32m>[0m,
+ [32m#<Cocktail:0x00005628ca3b37d0[0m
+  id: [1;34m6[0m,
+  url:
+   [31m[1;31m"[0m[31mhttps://www.liquor.com/thmb/YbaFLqBKww1EdvE4ojPNe5sFjzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/dirty-martini-1500x1500-hero-6cbd60561031409ea1dbf1657d05cb2d.jpg[1;31m"[0m[31m[0m,
+  name: [31m[1;31m"[0m[31mMartini[1;31m"[0m[31m[0m,
+  price: [1;34m900[0m,
+  ingredients:
+   [31m[1;31m"[0m[31m[[1;35m\"[0m[31m2.5 oz gin[1;35m\"[0m[31m, [1;35m\"[0m[31m0.5 oz dry vermouth[1;35m\"[0m[31m, [1;35m\"[0m[31mGreen olive or lemon twist (for garnish)[1;35m\"[0m[31m, [1;35m\"[0m[31mIce cubes[1;35m\"[0m[31m][1;31m"[0m[31m[0m,
+  instructions:
+   [31m[1;31m"[0m[31m1. Fill a mixing glass with ice cubes.[1;35m\n[0m[31m2. Add gin and dry vermouth.[1;35m\n[0m[31m3. Stir well.[1;35m\n[0m[31m4. Strain into a chilled martini glass.[1;35m\n[0m[31m5. Garnish with a green olive or lemon twist.[1;35m\n[0m[31m6. Enjoy![1;31m"[0m[31m[0m,
+  mixologist_id: [1;34m1[0m,
+  created_at: [1;34m2023[0m-[1;34m06[0m-[1;34m07[0m [1;34m10[0m:[1;34m49[0m:[1;35m19.140773[0m [1;34;4mUTC[0m,
+  updated_at: [1;34m2023[0m-[1;34m06[
