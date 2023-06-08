@@ -1,5 +1,5 @@
-# class Cocktail < ActiveRecord::Base
-#     belongs_to :mixologist
+class Cocktail < ActiveRecord::Base
+    belongs_to :mixologist
 
-# end
+end
 
